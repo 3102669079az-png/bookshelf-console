@@ -22,3 +22,7 @@
 ## 运行
 
 需要 JDK 17，直接在 IDEA 里运行 `Main.main()`。
+
+##运行截图
+<img width="1043" height="761" alt="屏幕截图 2026-10-25 161153" src="https://github.com/user-attachments/assets/1d652491-c4b7-42b2-bf3f-96d4ad82bfb5" />
+
