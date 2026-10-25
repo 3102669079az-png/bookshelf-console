@@ -1,0 +1,12 @@
+# IDEA
+.idea/
+*.iml
+
+# 编译输出
+out/
+target/
+*.class
+
+# 运行时数据文件
+shelf.txt
+demo.txt
